@@ -2,4 +2,4 @@
 
 # Students:
 1. Stefan Paunovski
-2. Angela Petreska
+2. Angela Petreska.
