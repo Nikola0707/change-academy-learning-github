@@ -8,3 +8,4 @@ Lets see conflict message
 
 1. Stefan Paunovski
 2. Angela Petreska.
+3. Cvetanka Apostolova
